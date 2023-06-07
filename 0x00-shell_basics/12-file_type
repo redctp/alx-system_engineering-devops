@@ -1,2 +1,2 @@
 #!/bin/bash
-mv iamafile /tmp/first_directory
+file /tmp/iamafile
